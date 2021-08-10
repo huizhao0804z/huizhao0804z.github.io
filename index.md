@@ -1,20 +1,39 @@
-## Welcome to My world
+# Welcome to My World
 
 You can use the [editor on GitHub](https://github.com/huizhao0804z/huizhao0804z.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### About Me
+## About Me
 Ph.D. student, Interdisciplinary Ecology\
 School of Natural Resources and Environment\
 Fort Lauderdale Research and Education Center/IFAS\
-University of Florida\
+University of Florida
 
-### Research
+## Research
 Resilience and sustainablity of urban agriculture
 
 
+## Stay Hungry, Stay Foolish （求知若饥 虚心若愚）
+I'm learning:
+#### Complex system 
+- [Introduction to Dynamical Systems and Chaos](https://www.complexityexplorer.org/courses/120-introduction-to-dynamical-systems-and-chaos)
+  From Complexity Explorer, Santa Fe Institute\
+  Also in [Youtube](https://www.youtube.com/playlist?list=PLF0b3ThojznQwpDEClMZmHssMsuPnQxZT)
 ### 
+
+## Data source
+
+
+### Tools
+- Literature management: [Citavi](https://www.citavi.com/en)
+- Wrting in LaTex: [TeXstudio](https://www.texstudio.org/)
+- Work log: [Typora](https://typora.io/)
+- Multi-device synchronization: Dropbox
+- 
+
+## Tips
+
 ```markdown
 Syntax highlighted code block
 
