@@ -25,9 +25,9 @@ I'm learning:
 ## Data source
 
 
-### Tools
+## Tools
 - Literature management: [Citavi](https://www.citavi.com/en)
-- Wrting in LaTex: [TeXstudio](https://www.texstudio.org/)
+- Writing in LaTex: [TeXstudio](https://www.texstudio.org/)
 - Work log: [Typora](https://typora.io/)
 - Multi-device synchronization: Dropbox
 - 
