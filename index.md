@@ -5,12 +5,16 @@ You can use the [editor on GitHub](https://github.com/huizhao0804z/huizhao0804z.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### About Me
-Ph.D. student, Interdisciplinary Ecology
-School of Natural Resources and Environment
-Fort Lauderdale Research and Education Center/IFAS
-University of Florida
+Ph.D. student, Interdisciplinary Ecology\
+School of Natural Resources and Environment\
+Fort Lauderdale Research and Education Center/IFAS\
+University of Florida\
+
+### Research
+Resilience and sustainablity of urban agriculture
 
 
+### 
 ```markdown
 Syntax highlighted code block
 
