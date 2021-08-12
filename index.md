@@ -20,8 +20,8 @@ I'm learning:
 - [Introduction to Dynamical Systems and Chaos](https://www.complexityexplorer.org/courses/120-introduction-to-dynamical-systems-and-chaos)
   From Complexity Explorer, Santa Fe Institute\
   Also in [Youtube](https://www.youtube.com/playlist?list=PLF0b3ThojznQwpDEClMZmHssMsuPnQxZT)
-### 
-
+#### Social-Ecological Systems
+[The Routledge Handbook of Research Methods for Social-Ecological Systems](https://www.routledge.com/The-Routledge-Handbook-of-Research-Methods-for-Social-Ecological-Systems/Biggs-Vos-Preiser-Clements-Maciejewski-Schluter/p/book/9780367898403)
 ## Data source
 
 
