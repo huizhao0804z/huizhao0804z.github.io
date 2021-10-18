@@ -16,14 +16,16 @@ Resilience and sustainablity of urban agriculture
 
 ## Stay Hungry, Stay Foolish （求知若饥 虚心若愚）
 I'm learning:
-#### Complex system 
+#### Complex system
+
 ##### Video
 - [Introduction to Dynamical Systems and Chaos](https://www.complexityexplorer.org/courses/120-introduction-to-dynamical-systems-and-chaos)
   From Complexity Explorer, Santa Fe Institute\
   Also in [Youtube](https://www.youtube.com/playlist?list=PLF0b3ThojznQwpDEClMZmHssMsuPnQxZT)
 #### Social-Ecological Systems
 ##### Book
-[The Routledge Handbook of Research Methods for Social-Ecological Systems](https://www.routledge.com/The-Routledge-Handbook-of-Research-Methods-for-Social-Ecological-Systems/Biggs-Vos-Preiser-Clements-Maciejewski-Schluter/p/book/9780367898403)
+[The Routledge Handbook of Research Methods for Social-Ecological Systems](https://www.routledge.com/The-Routledge-Handbook-of-Research-Methods-for-Social-Ecological-Systems/Biggs-Vos-Preiser-Clements-Maciejewski-Schluter/p/book/9780367898403)\
+[Infinite Powers: How Calculus Reveals the Secrets of the Universe](https://www.amazon.com/gp/product/B07FKF9DVJ/ref=ppx_yo_dt_b_d_asin_title_o06?ie=UTF8&psc=1)
 ## Data source
 
 
