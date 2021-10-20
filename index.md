@@ -1,14 +1,12 @@
 # Welcome to Hui's World
 
-You can use the [editor on GitHub](https://github.com/huizhao0804z/huizhao0804z.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## About Me
 Ph.D. student, Interdisciplinary Ecology\
 School of Natural Resources and Environment\
 Fort Lauderdale Research and Education Center/IFAS\
 University of Florida
+
+
 
 ## Research
 Resilience and sustainablity of urban agriculture
@@ -26,8 +24,18 @@ I'm learning:
 ##### Book
 [The Routledge Handbook of Research Methods for Social-Ecological Systems](https://www.routledge.com/The-Routledge-Handbook-of-Research-Methods-for-Social-Ecological-Systems/Biggs-Vos-Preiser-Clements-Maciejewski-Schluter/p/book/9780367898403)\
 [Infinite Powers: How Calculus Reveals the Secrets of the Universe](https://www.amazon.com/gp/product/B07FKF9DVJ/ref=ppx_yo_dt_b_d_asin_title_o06?ie=UTF8&psc=1)
+
 ## Data source
 
+
+# History
+## Education
+- 2019-Current, Interdisciplinary Ecology, University of Florida
+- 2016-2019 Mater, Ecology, University of Chinese Academy of Sciences
+- 2012-2016 B.S., Pysical Geography, Lanzhou University 
+
+## Certificate
+- Engineering Graduate Certificate, Biological Systems Modeling, University of Florida
 
 ## Tools
 - Literature management: [Citavi](https://www.citavi.com/en)
