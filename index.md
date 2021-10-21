@@ -38,7 +38,7 @@ I'm learning:
 ### Education
 - 2019 - Current, Interdisciplinary Ecology, University of Florida
 - 2016 - 2019 Master, Ecology, University of Chinese Academy of Sciences
-- 2012 - 2016 B.S., Pysical Geography, Lanzhou University 
+- 2012 - 2016 B.S., Physical Geography, Lanzhou University 
 
 ### Certificate
 - Engineering Graduate Certificate, Biological Systems Modeling, University of Florida
