@@ -28,7 +28,7 @@ I'm learning:
 
 #### Statistics
 Structural equation model
-  CenterStat [Free Introduction to Structural Equation Modeling](https://centerstat.org/introduction-to-structural-equation-modeling-async/) 
+ - CenterStat [Free Introduction to Structural Equation Modeling](https://centerstat.org/introduction-to-structural-equation-modeling-async/) 
 
 
 ### Data source
