@@ -26,7 +26,13 @@ I'm learning:
 #### Others
 [Infinite Powers: How Calculus Reveals the Secrets of the Universe](https://www.amazon.com/gp/product/B07FKF9DVJ/ref=ppx_yo_dt_b_d_asin_title_o06?ie=UTF8&psc=1)
 
+#### Statistics
+Structural equation model
+CenterStat [Free Introduction to Structural Equation Modeling](https://centerstat.org/introduction-to-structural-equation-modeling-async/) 
+
+
 ### Data source
+
 
 ### Tools
 - Literature management: [Citavi](https://www.citavi.com/en)
